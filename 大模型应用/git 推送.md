@@ -1,0 +1,9 @@
+- git add
+    - 添加文件
+- git commit -m "first commit"
+    - 暂存
+- git remote add origin "仓库链接"
+    - 配置远程仓库
+- git push -u origin main
+    - 把main 这个分支推送
+- 
